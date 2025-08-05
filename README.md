@@ -77,21 +77,33 @@
 - CEH Exam Guide (https://medium.com/techiepedia/certified-ethical-hacker-practical-exam-guide-dce1f4f216c9)
 
 --------------------------------------------
-### **Examples Questions (There are the real issues)**
+### **Sample Questions **
 - What is the IP of the Windows X machine?
+- Find the IP address of the machine which is running the RDP?
+- Find the OS name of the machine which is running MySQL database?
 - What is the version of the Linux Kernel?
+- Connect to the Server remotely using the credentials give by RDP?
+- Find the HTTP method that poses a high risk to the application example.com?
 - How many Windows machines are there?
 - What is the password for user X of the FTP server?
 - What is user X's IBAN number?
 - Which user X's phone number?
+- Find the Phone number the employee?
+- Find the password of the wordpress user “Raj”?
+- Find the file name which is tampered by comparing the hashes which is given in the /hashes folder?
 - What is the password hidden in the .jpeg file?
 - Rogue AP suspect, crack your password using capture.cap
+- Find the number of machines that were used to iniate the DDOS attack?
+- Find the attacker IP address who has launched the DOS attack?
+- Find the username/password from the pcap file, which is in plain text?
+- Decrypt the volume file using veracrypt?
 - Discovery RAT in Network and acess computer to recovery secret.txt
 - Identify IoT Message using capture.cap
+- Decode the file which is encoded in DES(ECB) format?
 - Identify FQDN of Domain Controller
+- Extract the information from the SDcard of the Android User?
 - Perform deep scan on the elf and obtain hash of the file with highest entropy value.
 - Find the executable's Entry point (Address)
-
 --------------------------------------------
 ### **Attacks Vector**
 
