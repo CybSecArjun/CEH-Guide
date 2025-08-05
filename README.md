@@ -105,6 +105,45 @@
 - Perform deep scan on the elf and obtain hash of the file with highest entropy value.
 - Find the executable's Entry point (Address)
 --------------------------------------------
+# Windows
+
+#### There were more windows based questions so you have to practice on windows GUI tools like mentioned below.
+
+1) “Open Stego” for Stegnography
+https://www.openstego.com/
+
+2) “WireShark” for Pcap analysis
+https://www.wireshark.org/download.html
+
+3) “ZAP” for SQLInjecion exploit
+https://www.zaproxy.org/download/
+
+4) “Veracrypt” for Disk Decryption
+https://www.veracrypt.fr/en/Downloads.html
+
+5) “Hash calculator” to find the hash of the file
+https://www.slavasoft.com/hashcalc/
+
+6) “MD5 Calculator” to compare the hashes
+http://www.md5calculator.com/
+
+7) “Cryptool” and “BCTextEncoder” to Crack the encoded files
+https://www.jetico.com/free-security-tools/encrypt-text-bctextencoder
+
+Windows based Commands which will help you to find the answers.
+1) net user — For Domain Users Enumeration
+2) snow.exe -C -p “password” stegfile.txt
+3) type C:\path.txt — It displays the content of the path.txt file.
+4) dir
+5) cd
+6) hostname
+7) whoami
+8) PWd
+
+Before giving the exam its very important to practice on these tools because the whole exam is based on the tools you should definitely know about these tools.
+
+--------------------------------------------
+
 ### **Attacks Vector**
 
 https://www.upguard.com/blog/attack-vector
