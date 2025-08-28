@@ -78,29 +78,48 @@
 
 --------------------------------------------
 ### **Sample Questions **
+
 - What is the IP of the Windows X machine?
 - Find the IP address of the machine which is running the RDP?
+- There is a machine running Wamp server in the subnet. Provide the IP address of the server.
 - Find the OS name of the machine which is running MySQL database?
+- Identify the machine with smb enabled. Crack the smb credentials for the username given. Access an encrypted file and decode the encrypted file to retrieve the flag.
 - What is the version of the Linux Kernel?
+- There is a machine running Wamp server in the subnet. Provide the IP address of the server.
 - Connect to the Server remotely using the credentials give by RDP?
 - Find the HTTP method that poses a high risk to the application example.com?
 - How many Windows machines are there?
 - What is the password for user X of the FTP server?
 - What is user X's IBAN number?
+- From a pcap file, analyze a DDOS attack and provide the IP address that sent most packets.
 - Which user X's phone number?
 - Find the Phone number the employee?
+- Analyze the image file to extract the hidden message. Password is given.8. Exploit weak credentials of FTP. Obtain the hidden file
 - Find the password of the wordpress user “Raj”?
 - Find the file name which is tampered by comparing the hashes which is given in the /hashes folder?
 - What is the password hidden in the .jpeg file?
+- You are provided with a username/password for a website. Use SQL Injection attack to extract the password of another user.
+- Perform the vulnerability scan for the given IP address. What is the severe value of a vulnerability that indicates the end of life for a web development language platform?
 - Rogue AP suspect, crack your password using capture.cap
+- There is an Android device in the subnet. Identify the device. Get the files in scan folder. Provide SHA384 hash with the largest of entropy.
 - Find the number of machines that were used to iniate the DDOS attack?
 - Find the attacker IP address who has launched the DOS attack?
 - Find the username/password from the pcap file, which is in plain text?
 - Decrypt the volume file using veracrypt?
+- Perform vulnerability research and exploit the target at given site.
+- Perform SQL injection on a website and extract flag value.
+- Exploit a web application at www.xxxx.com and enter the flag value from given page.
+- Analyze IoT traffic from a pcap file. Identify the packet with the publish message and enter the length.
+- Crack the weak credentials of Wi-Fi from a pcap file
+- Escalate privilege on a Linux machine. User-level credentials are given.10. Find a file entry point. File is given
+- Exploit a remote login application on a Linux target in the given subnet to access a sensitive file. Enter the content of the file.
 - Discovery RAT in Network and acess computer to recovery secret.txt
 - Identify IoT Message using capture.cap
 - Decode the file which is encoded in DES(ECB) format?
 - Identify FQDN of Domain Controller
+- Analyze IoT traffic from a pcap file. Identify the packet with the publish message and enter the length.
+- A RAT server is installed on a server. Connect with it and access the file.
+- Decrypt the VeraCrypt volume.
 - Extract the information from the SDcard of the Android User?
 - Perform deep scan on the elf and obtain hash of the file with highest entropy value.
 - Find the executable's Entry point (Address)
